@@ -1,7 +1,7 @@
 from google.cloud import storage
 
 def main():
-    # Nombre del bucket y carpeta de destino
+    # Nombre del bucket y carpeta de destino #
     bucket_name = 'pruebastorager2d'
     destination_blob_name = 'output/archivo.txt'
     
